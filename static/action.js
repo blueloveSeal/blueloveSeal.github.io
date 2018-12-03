@@ -108,7 +108,7 @@ const Actions = [{
   {
     lifeTime: 180,
     texts: [{
-        text: 'I',
+        text: '你',
         hsla: color2
       },
       {
@@ -116,15 +116,15 @@ const Actions = [{
         hsla: color3
       },
       {
-        text: 'Y',
+        text: '是',
         hsla: color2
       },
       {
-        text: 'O',
+        text: '猪',
         hsla: color2
       },
       {
-        text: 'U',
+        text: '头',
         hsla: color2
       },
     ]
